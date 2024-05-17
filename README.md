@@ -62,7 +62,6 @@ Ingles - Wizard -  (2023 - ...)
 
 IDIOMAS
 
-Liste aqui, informando o nível(iniciante, intermediário,avançado), quais idiomas você possui conhecimento.
 
 lingua nativa Portugues Avançado - aprendi ao longa da vida 
 
